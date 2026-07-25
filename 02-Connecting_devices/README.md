@@ -13,3 +13,10 @@ This lab was porvided by Jeremy's IT lab on youtube. This lab is mainly about in
 ---
 
 ## Devices Used
+| Device | Quantity |
+|---------|---------:|
+|  | 2 |
+|  | 2 |
+|  | 2|
+|  | 2 |
+|  | 2 |
