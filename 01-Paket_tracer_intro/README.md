@@ -22,3 +22,5 @@ The goal of this lab was to:
 | Servers | 2 |
 
 ---
+## Learning Outcomes
+1. 
